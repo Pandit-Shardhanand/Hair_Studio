@@ -1,2 +1,2 @@
 # Hair_Studio
-This is my HTM and CSS Project 
+This is my HTM and CSS and JavaScript Project 
